@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text basics</title>
+</head>
+
+<body>
+    <h1>Happy Coding</h1>
+    <hr>
+
+    <h2>I'm ready to learn HTML</h2>
+    <p>This is my first web page</p>
+
+    <h3>I'm like to learn new <em> things</em></h3>
+    <p>I've been worked with adobe illustrator for 8 month in my relatives office.
+        <br>
+        I have learned some other things other than academics in that 8 month.
+        <br>
+        like data entry for an month, telecalling 2 weeks, graphic designing for 8 month with hands on project handling
+        one of the brand in that company.
+        <br>
+    </p>
+
+    <h4>My daily learning coding</h4>
+    <p>Let me tell you how:
+        <br>&nbsp;&nbsp;&nbsp;...I learn more about web dev.
+        <br>&nbsp;&nbsp;&nbsp;...I am a self learner.
+        <br>&nbsp;&nbsp;&nbsp;...I learn daily 1 to 2 hours.
+        <br>&nbsp;&nbsp;&nbsp;...to upgrade me
+    </p>
+
+    <hr>
+
+    <h2>tools used</h2>
+    <p>---canva <br>
+        --- <abbr title="Adobe Illustrator">AI</abbr>. <br>
+        --- excel</p>
+
+    <h3>My hardwork never fails</h3>
+    <p>can make me succeed one day and <strong>me shine.................</strong></p>
+
+    <hr>
+
+    &lt; &lt; &lt; moni &gt; &gt; &gt;
+
+    <p>I have planned to go out here: </p>
+    <address>
+        123 Main Street,<br> Anytown,<br> Chennai 12345<br>
+    </address>
+
+<!-- Todo: Learn daily-->
+</body>
+
+</html>
